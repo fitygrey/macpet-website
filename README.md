@@ -1,4 +1,4 @@
-# 小小陪伴官方网站
+# 抬头有喵官方网站
 
 首页、隐私政策、使用与支持三个静态页面。参考 RopeJoy 项目的页面组织和 GitHub Pages 发布方式；无需 npm、构建步骤或第三方字体，无分析脚本。
 
@@ -8,7 +8,7 @@
 
 ## 发布
 
-将本目录内容（包括隐藏目录 .github）作为独立仓库根目录，例如 `macpet-website`，默认分支使用 main。在仓库 Settings → Pages 中选择 GitHub Actions，运行“发布小小陪伴网站”工作流。
+将本目录内容（包括隐藏目录 .github）作为独立仓库根目录，例如 `macpet-website`，默认分支使用 main。在仓库 Settings → Pages 中选择 GitHub Actions，运行“发布抬头有喵网站”工作流。
 
 网站仓库：https://github.com/fitygrey/macpet-website 。已配置 GitHub Actions 发布；推送 main 分支会自动部署。请勿将整个宠物工程上传为网站。
 

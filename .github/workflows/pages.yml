@@ -1,4 +1,4 @@
-name: 发布小小陪伴网站
+name: 发布抬头有喵网站
 on:
   push:
     branches: [main]
