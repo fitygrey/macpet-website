@@ -10,9 +10,9 @@
 
 将本目录内容（包括隐藏目录 .github）作为独立仓库根目录，例如 `macpet-website`，默认分支使用 main。在仓库 Settings → Pages 中选择 GitHub Actions，运行“发布小小陪伴网站”工作流。
 
-当前仅为本地可部署版本，尚未创建远端仓库或发布。请勿将整个宠物工程上传为网站。
+网站仓库：https://github.com/fitygrey/macpet-website 。已配置 GitHub Actions 发布；推送 main 分支会自动部署。请勿将整个宠物工程上传为网站。
 
-若使用 fitygrey/macpet-website，发布成功后的预期地址如下（上线后必须实际验证）：
+正式部署地址：
 
 - 首页：https://fitygrey.github.io/macpet-website/
 - 隐私政策：https://fitygrey.github.io/macpet-website/privacy/
